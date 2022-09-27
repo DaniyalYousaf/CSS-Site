@@ -1,0 +1,194 @@
+body{
+color: #40514E;
+  margin: 0px;
+text-align: center;
+
+
+}
+h1{
+
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+position: relative;
+bottom: 2rem;
+}
+h2{
+  position: relative;
+  bottom: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+span{
+  text-decoration: underline;
+}
+.top-container{
+
+background-color: #EAF6F6;
+
+
+}
+.sec-container
+{
+
+width: 500px;
+height: 250px;
+
+}
+.hello-container{
+padding-top: 5px;
+width: 20rem;
+position: absolute;
+left: 45%;
+right: 45%;
+}
+.cloud{
+margin-top: 0;
+  position: relative;
+top: 1rem;
+left: 8rem;
+  width: 6.25rem;
+}
+.cloud-d{
+width: 6.25rem;
+position: relative;
+bottom:  22rem;
+right: -3rem;
+}
+.helo-sec-par
+{
+  text-align: left;
+margin-top: 2rem;
+}
+.skill-sec-par
+{
+
+text-align: left;
+  line-height: 20px;
+position: relative;
+top: 7rem;
+right: 7.5rem;
+
+  margin-right:  1rem;
+}
+.logo{
+
+  width: 8rem;
+}
+.s-logo{
+padding-top: 1rem;
+
+position: relative;
+right: 8rem;
+  width: 8rem;
+
+float: left;
+}
+.hello{
+  padding-top: 5px;
+  color: #66BFBF;
+position: absolute;
+top: 10rem;
+left:  130px;
+}
+.skill{
+  position: relative;
+  top: 1rem;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+
+  color: #66BFBF;
+}
+.t-logo{
+  padding-top: 1rem;
+
+float: right;
+  position: relative;
+  right: 8rem;
+    width: 8rem;
+
+}
+.third-sec-par{
+
+  text-align: left;
+    line-height: 20px;
+  position: relative;
+  top: 7rem;
+  right: 7.5rem;
+
+    margin-right:  1rem;
+
+}
+.third-container{
+
+  width: 500px;
+  height: 250px;
+
+}
+.love-food-par{
+  position: absolute;
+  bottom: 5rem;
+  left: 2rem;
+width: 18rem;
+}
+hr{
+  color: #EAF6F6;
+  border-style: dotted;
+  width: 2rem;
+  border-width: 10px;
+border-bottom-style: none;
+
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+img{
+
+
+  width: 500px;
+  margin-bottom: 0,auto;
+}
+h3
+{
+  color: #66BFBF;
+  padding-top: 1rem;
+position: absolute;
+right: 8rem;
+}
+.btn{
+  width: 4.9rem;
+  height: 2rem;
+background-color: #66BFBF;
+border-width: 3px;
+border-style: none;
+border-radius: 5px;
+}
+.btn:hover{
+  background-color: grey;
+  text-decoration: underline;
+  text-shadow: 5rem;
+  text-decoration-color: grey;
+transition-delay: 0;
+}
+.footer{
+margin-top: 1rem;
+
+position: relative;
+right: 35rem;
+
+  background-color:#66BFBF;
+width: 77.15rem;;
+height: 10rem;
+}
+a{
+
+padding: 3rem;
+
+}
+.copy{
+  text-align: center;
+position: absolute;
+top: 4rem;
+left: 40rem;
+color: white
+}
